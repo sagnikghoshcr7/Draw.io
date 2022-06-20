@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T10:32:34.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rW4VugKNbG89IaheCp_u" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T10:35:19.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="JXuP6MFDhcozUDagKLye" version="19.0.0" type="github">
   <diagram id="lHmjGk1OeLpbmsNzeca1" name="Page-1">
-    <mxGraphModel dx="1298" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1887" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,8 +43,8 @@
         <mxCell id="4-EjzXVP2sMjGlYDWPHp-8" value="http://localhost:3000/" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;fontFamily=Helvetica;" parent="4-EjzXVP2sMjGlYDWPHp-6" vertex="1">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="4-EjzXVP2sMjGlYDWPHp-5" value="Frontend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="60" y="410" width="100" height="30" as="geometry" />
+        <mxCell id="4-EjzXVP2sMjGlYDWPHp-5" value="React Frontend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="63" y="410" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dtsdlSim27Gc0VsLpPKh-13" value="grey_goose DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="799.9988461538462" y="725.0015151515152" width="170" height="30" as="geometry" />
